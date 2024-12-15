@@ -3,5 +3,8 @@ Welcome all
 kheer
 paneer
 
+salad
+fruitjuice
+
 thankyou
 good day
